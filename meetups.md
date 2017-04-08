@@ -1,4 +1,4 @@
-# Grokking Meetups
+# Grokking Techtalks
 
 [Click here to check our upcoming events](https://www.facebook.com/grokking.engineering/events)
 
